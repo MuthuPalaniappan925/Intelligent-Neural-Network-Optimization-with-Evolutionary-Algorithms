@@ -60,3 +60,12 @@ Start the Streamlit server
 ```bash
   streamlit run evolutionary_algorithm.py
 ```
+
+## Parameters for Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms
+
+##### Params for Ant Colony Optimization
+| Generations | Ants | Alpha | Beta | Rho | q-factor |
+| :-------- | :------- | :------------------------- | :----------------- | :----------------- | --
+```10``` | ```10``` | ```1```|```1```|```0.5```|```1```|
+
+
