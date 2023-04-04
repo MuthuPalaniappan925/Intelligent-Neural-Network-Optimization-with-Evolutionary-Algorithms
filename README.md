@@ -34,3 +34,29 @@ The List of Evolutionary algorithms used in this project
 - [Cultural Algorithm](https://github.com/MuthuPalaniappan925/Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms/tree/main/Cultural%20Algorithm%20with%20ANN)
 - [Genetic Algorithm](https://github.com/MuthuPalaniappan925/Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms/tree/main/Gentic%20Algorithm%20With%20ANN)
 - [Particle Swarm Optimization](https://github.com/MuthuPalaniappan925/Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms/tree/main/Particle%20Swarm%20Optimization)
+
+## Run Locally
+
+Clone the project
+
+```bash
+gh repo clone MuthuPalaniappan925/Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms
+```
+
+Go to the project directory
+
+```bash
+  cd Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Start the Streamlit server
+
+```bash
+  streamlit run evolutionary_algorithm.py
+```
