@@ -23,12 +23,12 @@ The white box neural network architecture for the bank loan dataset is a supervi
 
  The input layer feeds into a hidden layer with 8 nodes, which performs complex computations and transforms the inputs to create useful features for the output layer.The output layer consists of a single node that predicts the likelihood of a loan application being approved or denied based on the input data.
 
-```http
+```
 Input Layer - 12 Nodes.
 Hidden Layer - 8 Nodes.
 Output Layer - 1 Node.
 ```
-```http
+```
 Activation Functions
 
 - Hidden Layer: ReLU (Rectified Linear Unit) activation function.
