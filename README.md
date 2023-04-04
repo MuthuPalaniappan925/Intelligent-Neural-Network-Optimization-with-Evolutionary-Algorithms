@@ -73,4 +73,8 @@ Start the Streamlit server
 | :-------- | :------- | :------------------------- | :----------------- | :----------------- |
 ```100``` | ```50``` | ```0.75```|```0.5```|```Elitism```|
 
+##### Params for Genetic Algorithm
+| Generations | Population Size | Cross-Over Rate | Mutation Rate | Parent Selection | 
+| :-------- | :------- | :------------------------- | :----------------- | :----------------- |
+```100``` | ```50``` | ```0.90```|```0.05```|```Roultee Wheel```|
 
