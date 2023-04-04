@@ -82,3 +82,5 @@ Start the Streamlit server
 | Generations | Population Size | C1 | C2 | Inertial Weight | 
 | :-------- | :------- | :------------------------- | :----------------- | :----------------- |
 ```100``` | ```50``` | ```1.9```|```1.7```|```0.7```|
+
+The benchmark of the algorithms can be viewed [here](https://github.com/MuthuPalaniappan925/Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms/tree/main/Benchmark)
